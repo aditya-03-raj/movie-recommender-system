@@ -58,29 +58,6 @@ movie-recommender-system/
 └── requirements.txt
 ```
 
-## ▶️ Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/aditya-03-githere/movie-recommender-system.git
-cd movie-recommender-system
-```
-
-Install the dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Open the notebook:
-
-```bash
-jupyter notebook
-```
-
-Run the notebook cells to preprocess the data, build the recommendation system, and generate movie recommendations.
-
 ## 📌 Current Status
 
 The core content-based recommendation approach has been implemented. The project can be further extended with a user interface and deployment.
